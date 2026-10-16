@@ -1,0 +1,12 @@
+numpy
+pandas
+matplotlib
+fitparse
+pytest
+streamlit
+fastapi
+uvicorn
+httpx<0.28
+scikit-learn
+joblib
+cryptography
